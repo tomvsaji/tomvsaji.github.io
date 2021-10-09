@@ -18,7 +18,7 @@ class App extends React.Component {
     //             "method": "GET",
     //             "mode"  :  "no-cors",
     //             "headers": {
-    //                 "Authentication": "Bearer AAAAAAAAAAAAAAAAAAAAAA%2FJUQEAAAAAn5LdlCVfSXeeU%2B2ZL%2FskAJF8fcc%3DvtcexU5kga9YUzXtakYZaUgl46PYnkKrmYq2PisnipFmBiqcWK"
+    //                 "Authentication": "Bearer"
     //             }
     //         })
     //         .then(response => {
