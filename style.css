@@ -1,0 +1,32 @@
+body  {
+  background-color: #74b9ff;
+}
+
+.input-field {
+  align-items:  center;
+  background-color: white;
+}
+
+.tweet-box {
+    background-color: white;
+    display:  grid;
+    grid-template-columns: 1fr 1fr;
+    width:700px;
+    margin: auto;
+    justify-items: center;
+    align-items: center;
+}
+
+.feedContainer{
+  background-color: white;
+}
+
+.twitter-timeline{
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+
